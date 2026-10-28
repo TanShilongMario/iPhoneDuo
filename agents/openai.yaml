@@ -1,0 +1,4 @@
+interface:
+  display_name: "iPhone Duo Migration"
+  short_description: "Adapt SwiftUI/UIKit layouts and test foldable iPhone continuity"
+  default_prompt: "Use $iphone-duo-migration to audit this app, adapt its layouts and keyboard behavior, and verify Duo poses plus ordinary iPhone regression."
